@@ -1,0 +1,56 @@
+form{
+    background: #cccccc;
+    width: 1100px;
+    border: 2px solid black;
+    margin-left: 50px;
+    margin-top: 100px;
+}
+form img{
+    float: left;
+    width: 70px;
+    height: 70px;    
+}
+form h1 {
+    float: left;
+    text-align: left;
+    text-decoration: none;
+}
+#Encabezado {
+    float: top;
+    padding-left: 700px;    
+}
+#Encabezado p {
+    text-align: center;
+}
+#Datos-funcio {
+    float: left;
+    padding: 0px 0px 0px 0px;
+}
+#Datos-cliente{
+    float: top;
+    padding-left: 550px;
+}
+#Datos-cliente p {
+    text-align: center;
+}
+#Datos-articulo{
+    float: left;
+}
+#imagenes img{
+    float: right;
+}
+#tabla table {
+       margin-top: 150px; 
+       border:1px solid black;
+       border-collapse:separate;
+       border-spacing:0px;      
+       }
+table {
+       border:1px solid black;
+       border-collapse:separate;
+       width: 1100px;
+       height:100px;       
+       }
+th,td {
+       border:1px solid black;               
+       }
